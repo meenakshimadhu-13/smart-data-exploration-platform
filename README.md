@@ -22,21 +22,6 @@ The Smart Data Exploration Platform is a web-based application built using Pytho
 - Version Control: Git & GitHub
 - Deployment: Streamlit Cloud
 
-## Project Structure
-smart-data-exploration-platform/
-├── app.py                  # Main Streamlit application
-├── requirements.txt        # Project dependencies
-├── eda/
-│   ├── loader.py           # Dataset loading logic
-│   ├── overview.py         # Dataset overview functions
-│   ├── quality.py          # Data quality analysis
-│   ├── statistics.py       # Statistical computations
-│   ├── visualization.py   # Plot generation
-│   └── report.py           # Excel report generation
-├── .gitignore
-├── README.md
-└── LICENSE
-
 ## How the Application Works
 1. User uploads a dataset (CSV or Excel).
 2. The system automatically detects column types.
