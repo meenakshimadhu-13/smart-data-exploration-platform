@@ -39,13 +39,6 @@ https://smart-data-exploration-platform.streamlit.app
 - Learning and practicing EDA concepts
 - Rapid data understanding without coding
 
-## Future Enhancements
-- Correlation heatmaps
-- Outlier summary reports
-- PDF report export
-- User authentication
-- Advanced filtering options
-
 ## Author
 Meenakshi Madhu  
 B.Tech – Artificial Intelligence & Data Science
