@@ -29,31 +29,9 @@ The Smart Data Exploration Platform is a web-based application built using Pytho
 4. Sampling is applied for visualizations to maintain performance.
 5. Users can interactively explore data and download results.
 
-## Installation & Local Setup
-Prerequisites:
-- Python 3.8 or higher
-- Git
-
-Steps:
-git clone https://github.com/meenakshimadhu-13/smart-data-exploration-platform.git
-cd smart-data-exploration-platform
-python -m venv venv
-venv\Scripts\activate
-pip install -r requirements.txt
-streamlit run app.py
-
-The application will be available at:
-http://localhost:8501
-
 ## Live Demo
 The application is deployed on Streamlit Cloud and can be accessed via the public link:
 https://smart-data-exploration-platform.streamlit.app
-
-## Collaboration Workflow
-- Team members are added as GitHub collaborators.
-- Each contributor works on a separate branch.
-- Changes are submitted via Pull Requests.
-- Pull Requests are reviewed and merged into the main branch.
 
 ## Use Cases
 - Academic projects and demonstrations
